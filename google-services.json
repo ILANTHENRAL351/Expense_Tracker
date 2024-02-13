@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500275398479",
+    "project_id": "expense-tracker-c9c02",
+    "storage_bucket": "expense-tracker-c9c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500275398479:android:d2590e1ce6e60e3e74e73a",
+        "android_client_info": {
+          "package_name": "com.isquare.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeKxYACguo7bTi2SdMVt76aiqEOWHql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
